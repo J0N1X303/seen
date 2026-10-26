@@ -1,35 +1,19 @@
-# Evidence and editorial decisions
+# V7.7 — evidence and editorial update
 
-Reviewed 26 October 2026. Claims appear with linked citations, population, survey period, publication date and caveats in the experience. The UK nations have different survey systems; no single UK-wide rate is claimed.
+Checked 26 October 2026. The sequence now explains cumulative experiences and public-space safety rather than leading with one-year prevalence. It does not infer a lifetime rate from an annual percentage.
 
-| Card | Source and scope |
-| --- | --- |
-| Sexual victimisation | ONS Crime in England and Wales, published 22 October 2026, section 9. Women aged 16+ living in households; year ending March 2026. Includes attempts. Redesigned questions mean earlier published measures are not directly comparable. |
-| Sexual harassment | Same ONS bulletin, section 10. People aged 16+, all sexes, household population; year ending March 2026. Survey measure includes one-off experiences, unlike the police course-of-conduct definition. |
-| Perceived safety | Scottish Household Survey 2025 neighbourhood safety, published 13 October 2026, table 37. Adults aged 16+, Scotland. Feeling very/fairly safe walking alone in one’s neighbourhood after dark. The remainder is not automatically an unsafe category. |
+1. **Sexual assault:** ONS, Sexual offences victim characteristics, year ending March 2025, section 4 (published 4 November 2025). Estimate for women aged 16+ living in households in England and Wales, experiences since 16, including attempts. The source gives 25.6%, about 6.3 million women; displayed as 1 in 4. This is not a one-year rate or a measure covering childhood. The half-sample quality note and offence definition are available in the sources section.
+   https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/sexualoffencesvictimcharacteristicsenglandandwales/yearendingmarch2025#sex
+2. **Public sexual harassment:** UN Women UK’s March 2021 report, January 2021 YouGov survey of 1,089 UK women aged 18+. It asks about ever experiencing listed behaviours in public spaces, including online and excluding work/study. 71% reported at least one. This study date is visible; it is not presented as a new 2026 survey. The widely repeated 97% for young women is not used: 3% saying never does not mean all of the remainder said yes, because nonresponses exist.
+   https://www.unwomenuk.org/site/wp-content/uploads/2021/03/APPG-UN-Women-Sexual-Harassment-Report_Updated.pdf
+   Publisher context: https://www.unwomenuk.org/our-work-safe-spaces-now/
+3. **Feeling unsafe near home:** Home Office’s 2022 public sexual harassment consultation explicitly summarises ONS’s 16 February–13 March 2022 Opinions and Lifestyle Survey: one in two women felt unsafe walking alone after dark in a quiet street near home. Great Britain, adults aged 16+, very/fairly unsafe. This is perception at the time of the survey, not an assault probability. The Home Office summary is the card citation; the originating ONS bulletin is below.
+   https://www.gov.uk/government/consultations/creating-an-offence-of-public-sexual-harassment/public-sexual-harassment-consultation
+   https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/perceptionsofpersonalsafetyandexperiencesofharassmentgreatbritain/16februaryto13march2022
 
-ONS: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingjune2026
+“One in two women have experienced sexual assault” was investigated but not established as a representative UK-wide estimate. It is not used. Older survey years are retained visibly where they answer the relevant question; the latest annual rate is not substituted for cumulative experiences.
 
-Scottish Government: https://www.gov.scot/publications/neighbourhoods-and-communities-2025-findings-from-the-scottish-household-survey/pages/neighbourhood-safety/
+About now states the purpose directly: men noticing, listening, challenging friends, respecting no and helping safely. Its prototype and review disclaimers were removed at the owner’s request. The original 13 scenes and cumulative message history are unchanged.
 
-## Practical guidance and support
+Support and film references remain as in V7.6. The LSKD film is linked to its exact supplied YouTube ID, corroborated through its creator’s page. The supplied Facebook clip remains unverified; the included Hollyoaks clip is a separately verified alternative.
 
-Rape Crisis bystander guidance: https://rapecrisis.org.uk/get-informed/what-to-do-if-you-see-sexual-violence/
-
-ENOUGH guidance: https://enough.campaign.gov.uk/enough-website-summary
-
-Support: https://rapecrisis.org.uk/get-help/ ; https://www.rapecrisisscotland.org.uk/ ; https://rapecrisisni.org.uk/
-
-Advice prioritises safety, de-escalation, asking what support is wanted and not pressuring someone to report. The UK emergency number is 999. Linked services have their own eligibility and opening hours.
-
-## Films
-
-The supplied running link https://www.youtube.com/watch?v=_YnZEqQ6DMY was matched to LSKD’s own campaign page and its embedded YouTube ID: https://www.lskd.co/blogs/the-lifestyle/she-runs-lskd (26 February 2026, Bree Rizzo). It is Australian campaign storytelling, not UK statistical evidence. No headline percentage from the campaign is reused.
-
-The supplied Facebook URL https://www.facebook.com/watch/?v=1512003002606348 could not be independently retrieved or matched in indexed sources. It is intentionally not linked from the experience. The included official Hollyoaks alternative is The Long Walk Home (7 November 2022): https://www.youtube.com/watch?v=0mih-yP7nfM . Search results identify the verified Hollyoaks channel and the clip’s description. Direct video playback was not tested; platform availability, age restrictions and captions may vary. It must not be represented as a verified copy of the supplied Facebook video.
-
-Videos open only on request, with content notes. No third-party players are embedded or autoplayed.
-
-## Slogans
-
-“Not all men, but all men can make a difference” is a constructive invitation weakened by a defensive opening. “Not all men, but always a man” is an unsupported absolute; a 90%+ caveat cannot make “always” true. The selected line is action-focused and needs no invented statistic.
