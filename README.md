@@ -1,4 +1,4 @@
-# Seen. — V7.6 evaluation version
+# Seen. — V7.7 evaluation version
 
 A standalone interactive story about unwanted attention, perspective and safe bystander action. The 13-scene V7.5 story is preserved; later phone views now include the complete earlier conversation.
 
@@ -29,3 +29,4 @@ This is the same buildless HTML approach used by Hendry Commercial, with a separ
 Evidence was checked on 26 October 2026. See EVIDENCE.md for scopes and exclusions and VALIDATION.md for checks and limits. The story has not received independent specialist or lived-experience review. It is an evaluation copy, not certified training.
 
 The current invitation is **Notice. Listen. Make a difference.** The earlier “not all men” proposals are assessed in the resources section. Women’s safety is not justified through comparisons with a viewer’s mother or partner, and the site makes no claim that perpetrators are always men.
+
