@@ -1,4 +1,4 @@
-# Seen. — V7.7 evaluation version
+# Seen. — V7.8 evaluation version
 
 A standalone interactive story about unwanted attention, perspective and safe bystander action. The 13-scene V7.5 story is preserved; later phone views now include the complete earlier conversation.
 
@@ -18,7 +18,7 @@ This is the same buildless HTML approach used by Hendry Commercial, with a separ
 
 ## Evaluation behaviour
 
-- End of story opens a choice: manual facts, explicit autoplay, or resources. Silent autoplay advances every 18 seconds.
+- End of story opens a choice: manual facts, explicit autoplay, or resources. Silent autoplay advances every 8 seconds.
 - Pause, previous, next and skip remain available. Source focus, leaving the browser window and opening About pause playback. Reduced-motion preferences disable visual transitions; nothing autoplays without a deliberate choice.
 - The final conversation starts at the newest messages. Scroll upward for the full history, or use Latest to return to the end. Keyboard scrolling within the phone does not advance the story.
 - Share uses the hosted page’s URL, removing query parameters and fragments. Native sharing is used where available, then clipboard, then a selectable link. Local-file and localhost copies explain why they cannot provide a public URL.
@@ -29,4 +29,3 @@ This is the same buildless HTML approach used by Hendry Commercial, with a separ
 Evidence was checked on 26 October 2026. See EVIDENCE.md for scopes and exclusions and VALIDATION.md for checks and limits. The story has not received independent specialist or lived-experience review. It is an evaluation copy, not certified training.
 
 The current invitation is **Notice. Listen. Make a difference.** The earlier “not all men” proposals are assessed in the resources section. Women’s safety is not justified through comparisons with a viewer’s mother or partner, and the site makes no claim that perpetrators are always men.
-

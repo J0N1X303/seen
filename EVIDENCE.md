@@ -16,4 +16,3 @@ Checked 26 October 2026. The sequence now explains cumulative experiences and pu
 About now states the purpose directly: men noticing, listening, challenging friends, respecting no and helping safely. Its prototype and review disclaimers were removed at the owner’s request. The original 13 scenes and cumulative message history are unchanged.
 
 Support and film references remain as in V7.6. The LSKD film is linked to its exact supplied YouTube ID, corroborated through its creator’s page. The supplied Facebook clip remains unverified; the included Hollyoaks clip is a separately verified alternative.
-
