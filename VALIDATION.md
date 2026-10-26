@@ -16,3 +16,5 @@ Limits: these are responsive browser checks, not tests on physical iOS/Android d
 
 Live verification: https://j0n1x303.github.io/seen/ returned HTTP 200 on 26 October 2026. Published HTML matched the local package exactly. Live desktop and mobile checks passed for the full story, cumulative final conversation, optional facts, resources and share control. Hosted URL simulation separately verified native-share data, clipboard, denied-permission fallback and cancellation without sending a share.
 
+V7.7 amendment checks: full functional suite passed against the revised HTML at 1440×1000, 390×844 and 320×740. Exact original story and cumulative message arrays preserved. New About copy and all three replacement fact cards checked in all three layouts; screenshots reviewed. About contains the direct call for men to step up and no prototype/review disclaimer. Scope, dates and source links remain visible on each fact card. Deployment verification follows separately.
+
